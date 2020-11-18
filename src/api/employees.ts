@@ -1,4 +1,4 @@
-import { IComment, IEmployee } from './types.d'
+import { IComment, IEmployee } from './types'
 import request from '@/utils/request'
 
 export const getEmployees = (params: any) =>

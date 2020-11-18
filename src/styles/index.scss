@@ -1,7 +1,7 @@
 // @import './variables.scss'; // Already imported in style-resources-loader
 // @import './mixins.scss'; // Already imported in style-resources-loader
-@import './transition.scss';
-@import './svgicon.scss';
+@import 'src/styles/transition';
+@import 'src/styles/svgicon';
 
 /* Global scss */
 
